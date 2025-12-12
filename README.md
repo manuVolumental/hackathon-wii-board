@@ -17,3 +17,5 @@ Use Wii Balance board to get weight distribution on a scanner. Use this to creat
 - For each mesurements all these were combined to a single image using the weights, some randomness etc.
 - The image is filtered with multiple gaussian filters to make it look good. We don't display the foot when the weight on that side is too low
 - Finally, this combined image was modified using the feet shape we get from the scanner results (we use one of a fixed scan for now)
+
+## [Template images](https://drive.google.com/drive/folders/1YmLT5G9bTi-kcrQY_N1XarrE5yNaEmGi?usp=sharing)
